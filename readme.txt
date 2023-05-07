@@ -1,1 +1,0 @@
-this is my repository for implementing my typescript code.
